@@ -1,0 +1,3 @@
+# Los binarios se publican como assets de un Release, no se commitean.
+# Este repo es solo documentacion; el .exe vive en /releases.
+/dist/
